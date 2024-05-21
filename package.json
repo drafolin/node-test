@@ -1,0 +1,8 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drafolin/node-test.git",
+  "author": "drafolin <derg@drafolin.ch>",
+  "license": "MIT"
+}
